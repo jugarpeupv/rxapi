@@ -1,4 +1,5 @@
 mod handlers;
+mod model;
 
 use actix_multipart::form::tempfile::TempFileConfig;
 
